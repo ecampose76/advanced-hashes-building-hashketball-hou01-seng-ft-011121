@@ -1,1 +1,4 @@
-game_hash = Hash.new 
+hash = {}
+
+def game_hash(hash)
+end
